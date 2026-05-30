@@ -53,7 +53,7 @@ Se aplicaron las siguientes transformaciones:
 📦 proyecto/
 ├── 📂 datos_originales/
 │   └── 📄 dataset
-│
+│   └── 📄 origen dataset
 ├── 📂 datos_preparados/
 │   ├── 📄 archivo de Tableau Prep Builder
 │   └── 📄 archivo de Tableau con visualizaciones
